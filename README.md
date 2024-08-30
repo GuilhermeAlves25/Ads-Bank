@@ -74,8 +74,14 @@ Permite ao gerente excluir um cliente do sistema. Solicita o CPF do cliente e, s
 - **Validação e Manipulação de Strings**: Utiliza funções como `fgets`, `strcspn`, e `strcasecmp` para leitura e manipulação de strings.
 - **Uso de Arrays Globais**: Armazena informações sobre clientes em arrays globais, acessadas e modificadas pelas funções conforme necessário.
 
+## Como Acessar o sistema gerente
+
+- **Nome do gerente: Guilherme**
+- **Senha do gerente: 1458**
+
 ## Como Compilar e Executar
 
-1. **Compilar**: Use um compilador C, como `gcc`, para compilar o código.
+1. **Compilar**: Use um compilador C ou um editor de codigo com compilador embarcado como Devc++ ou Vscode e tambem `gcc`, para compilar o código.
    ```sh
    gcc -o adsbank adsbank.c
+
