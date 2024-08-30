@@ -4,6 +4,9 @@ Aluno: Guilherme Alves Da Silva
 Professor: Felipe Gonçalves dos Santos  
 Disciplina: Alogoritmos e progração
 
+**Link para o video explicativo:**  
+https://youtu.be/sRYEnHc6NBs?si=a6aM0_lsQM2z8dst
+
 **OBSERVAÇÃO!!**  
 ## Para acessar o sistema gerente
 - **Nome do gerente: Guilherme**
