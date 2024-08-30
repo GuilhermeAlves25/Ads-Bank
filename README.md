@@ -4,7 +4,7 @@ Aluno: Guilherme Alves Da Silva
 Professor: Felipe Gonçalves dos Santos  
 Disciplina: Alogoritmos e progração
 
-**Link para o video explicativo:**  
+**Link para o vídeo explicativo:**  
 https://youtu.be/sRYEnHc6NBs?si=a6aM0_lsQM2z8dst
 
 **OBSERVAÇÃO!!**  
