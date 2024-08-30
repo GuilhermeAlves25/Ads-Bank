@@ -5,7 +5,7 @@ Professor: Felipe Gonçalves dos Santos
 Disciplina: Alogoritmos e progração
 
 **OBSERVAÇÃO!!**  
-## PARA ACESSAR o sistema gerente
+## Para acessar o sistema gerente
 - **Nome do gerente: Guilherme**
 - **Senha do gerente: 1458**
 
