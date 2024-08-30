@@ -4,6 +4,11 @@ Aluno: Guilherme Alves Da Silva
 Professor: Felipe Gonçalves dos Santos  
 Disciplina: Alogoritmos e progração
 
+**OBSERVAÇÃO!!**  
+## PARA ACESSAR o sistema gerente
+- **Nome do gerente: Guilherme**
+- **Senha do gerente: 1458**
+
 Repositorio dedicado a exposição do codigo Ads Bank. Turma do Modulo 1 de ads, Disciplina Algoritimos e programação.
 
 # AdsBank - Sistema Bancário
@@ -74,10 +79,6 @@ Permite ao gerente excluir um cliente do sistema. Solicita o CPF do cliente e, s
 - **Validação e Manipulação de Strings**: Utiliza funções como `fgets`, `strcspn`, e `strcasecmp` para leitura e manipulação de strings.
 - **Uso de Arrays Globais**: Armazena informações sobre clientes em arrays globais, acessadas e modificadas pelas funções conforme necessário.
 
-## Como Acessar o sistema gerente
-
-- **Nome do gerente: Guilherme**
-- **Senha do gerente: 1458**
 
 ## Como Compilar e Executar
 
