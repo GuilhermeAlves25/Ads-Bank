@@ -1,7 +1,7 @@
 ## Ads-Bank V1
 
-Aluno: Guilherme Alves Da Silva
-Professor: Felipe Gonçalves dos Santos
+Aluno: Guilherme Alves Da Silva  
+Professor: Felipe Gonçalves dos Santos  
 Disciplina: Alogoritmos e progração
 
 Repositorio dedicado a exposição do codigo Ads Bank. Turma do Modulo 1 de ads, Disciplina Algoritimos e programação.
